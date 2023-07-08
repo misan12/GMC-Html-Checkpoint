@@ -1,7 +1,10 @@
+*{
+    font-family: 'Roboto';font-size: 22px;
+}
 html, body {
     height: auto;
     width: auto;
-    background-color: rgba(48, 45, 48, 0.414);
+    background-color: darkcyan;
   }
 a {
     text-decoration: none;
